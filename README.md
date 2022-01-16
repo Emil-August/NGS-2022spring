@@ -19,3 +19,10 @@ Visualize the phylogenetic tree (iTOL)
 Do PCA analysis to check possible clusters (R)
 
 Predict drug resistance (TB-profiler)
+
+Google slide
+https://docs.google.com/presentation/d/1KUhntjp3vhhEze0aiLoQEDJpCLuf9aIU8Tj2VUcvwIA/edit#slide=id.p
+
+Overleaf Poster 
+https://www.overleaf.com/2728134937brjsxdqhwxvh
+
